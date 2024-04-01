@@ -17,4 +17,5 @@ I am a recent graduate of App Academy coding boot camp.  It was very challenging
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 ![Render Badge](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=for-the-badge)
+![SQLAlchemy Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=for-the-badge)
 
